@@ -1,0 +1,11 @@
+#mag {
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    right: -100%;
+    transition: all 0.6s;
+    position: absolute;
+}
